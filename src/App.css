@@ -1,0 +1,10 @@
+.selflink.ui.label {
+  display: none;
+}
+
+@media only print {
+  .selflink.ui.label  {
+    display: inline-block;
+  }
+}
+

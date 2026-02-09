@@ -1,12 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # code
-/public
-/src
-package.json
-package-lock.json
 README.md
-tsconfig.json
 
 # dependencies
 /node_modules
